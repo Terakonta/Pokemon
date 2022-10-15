@@ -2,7 +2,7 @@
 A website where you can view Pokémon and their details like types, attacks etc.
 
 
-Makes use of AJAX for asynchronous calls to Pokemon [PokeAPI](https://pokeapi.co/) and jQuery library for event handeling, HTML manipulation, making AJAX calls easier etc.
+Makes use of AJAX for asynchronous calls to Pokemon [PokeAPI](https://pokeapi.co/), jQuery library for event handeling, HTML manipulation, making AJAX calls easier etc, and Bootstrap CSS framework for styling.
 
 
 <img src="https://github.com/Terakonta/Pokemon-site/blob/main/pokemon-images/pokemain.PNG" alt="Main page" title="Landing page">
