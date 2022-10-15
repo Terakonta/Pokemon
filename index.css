@@ -1,0 +1,23 @@
+h1
+{
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#get-pokemon-button
+{
+    font-size: 24px;
+    
+}
+
+
+.container
+{
+    text-align: center;
+    
+}
+
+/* .details
+{
+    display: none;
+} */
